@@ -28,6 +28,8 @@ You reach out to grab a handful of the marshmallow wall, but you can't seem to t
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
+[You decide to bite the marshmallow wall](./bite-the-marshmallow/tasty-marshmallow.md)
+
 You are feeling very anxious at this point.
 
 This is because you do not like leather for ethical reasons.
@@ -397,3 +399,5 @@ Do you:
 [Thank Mr. Skeltal](2spooky/2spooky.md)
 
 [Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
+
+[Stop, hammertime!](hammertime/hammertime.md)
